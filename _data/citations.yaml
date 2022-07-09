@@ -15,8 +15,8 @@
   publisher: GigaScience
   date: '2019-04-01'
   link: https://doi.org/ggrfgj
-  image: https://raw.githubusercontent.com/BioPortainer/BioPortainer/master/images/logo.png
-  _cache: f7849dd4add9c45c0c6cba1ccc08c62965251e8c00b54a896256ed2e60034aef
+  image: https://raw.githubusercontent.com/BioPortainer/BioPortainer/master/images/BioPortainerWorkbench.png
+  _cache: 3c9bf5e902fa3322ff097cf5e687e3e5d56a4e6e9cd38e6cb7967a3352114e44
 - id: 10.1093/bioinformatics/btx554
   title: 'Dugong: a Docker image, based on Ubuntu Linux, focused on reproducibility
     and replicability for bioinformatics analyses'
