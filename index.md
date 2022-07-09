@@ -2,8 +2,6 @@
 title: Home
 ---
 
-# Your Lab Slogan
-
 {%
   include figure.html
   image="images/logo-lab.png"
