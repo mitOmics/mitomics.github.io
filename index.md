@@ -5,7 +5,7 @@ title: Home
 {%
   include figure.html
   image="images/logo-lab.png"
-  width="600px"
+  width="700px"
 %}
 
 [LaBiOmicS](https://labiomics.github.io/) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
