@@ -17,3 +17,16 @@
   link: https://doi.org/ggrfgj
   image: https://raw.githubusercontent.com/BioPortainer/BioPortainer/master/images/logo.png
   _cache: f7849dd4add9c45c0c6cba1ccc08c62965251e8c00b54a896256ed2e60034aef
+- id: 10.1093/bioinformatics/btx554
+  title: 'Dugong: a Docker image, based on Ubuntu Linux, focused on reproducibility
+    and replicability for bioinformatics analyses'
+  authors:
+  - Fabiano B Menegidio
+  - Daniela L Jabes
+  - Regina Costa de Oliveira
+  - Luiz R Nunes
+  publisher: Bioinformatics
+  date: '2017-09-04'
+  link: https://doi.org/gczch2
+  image: https://raw.githubusercontent.com/DugongBioinformatics/dugongbioinformatics.github.io/master/.misc/Dugong%20-%20images%20paper.png
+  _cache: 67c8925026eb297699ff29c951635afc5cf1219176ccf7cfd6aa9e639ec8066e
