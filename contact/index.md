@@ -7,6 +7,12 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
+{%
+  include figure.html
+  image="images/logo-lab.png"
+  width="700px"
+%}
+
 Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
 We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
