@@ -82,7 +82,7 @@ We believe that anyone around the world should be able to use and extend our wor
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of enthusiastic researchers that want to push the frontier of bioinformatics and computational biology. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include link.html
