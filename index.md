@@ -106,6 +106,6 @@ We are a team of enthusiastic researchers that want to push the frontier of bioi
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner-inf.jpg" %}
+{% include banner.html image="images/banner-inf.png" %}
 
 {% include section.html %}
