@@ -109,3 +109,9 @@ We are a team of enthusiastic researchers that want to push the frontier of bioi
 {% include banner.html image="images/banner-inf.png" %}
 
 {% include section.html %}
+
+{%
+  include figure.html
+  image="images/openscience.png"
+  width="350px"
+%}
