@@ -7,7 +7,7 @@ title: Home
 {%
   include figure.html
   image="images/notebook.png"
-  width="700px"
+  width="650px"
 %}
 
 [LaBiOmicS](https://labiomics.github.io/) is a team of researchers at the University of Mogi das Cruzes dedicated to answering important questions in Biotechnology and Biomedical Engineering with Bioinformatics and Computational Biology. We focus on bringing together publicly available big data, developing new computational methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
@@ -16,8 +16,8 @@ title: Home
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="See the GitHub Repository"
+  link="LaBiOmicS"
   style="button"
 %}
 {%
