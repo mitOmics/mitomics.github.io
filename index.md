@@ -24,7 +24,7 @@ title: Home
   include link.html
   type="docs"
   icon=""
-  text="See the documentation"
+  text="See the Institutional Website"
   link="https://github.com/greenelab/lab-website-template/wiki"
   style="button"
 %}
