@@ -2,6 +2,8 @@
 title: Home
 ---
 
+# WHERE COMPUTER AND BIOLOGY MEET
+
 {%
   include figure.html
   image="images/logo-lab.png"
