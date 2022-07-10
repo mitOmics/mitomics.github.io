@@ -30,7 +30,7 @@ title: Home
 %}
 {:.center}
 
-{% include section.html full=80%}
+{% include section.html full=true %}
 
 {% include banner.html image="images/banner.jpg" %}
 
