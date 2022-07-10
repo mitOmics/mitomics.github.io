@@ -53,7 +53,7 @@ We use bioinformatics and computational biology to answer important questions in
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/6313479.png"
   link="research"
   title="Our Research"
   text=text
