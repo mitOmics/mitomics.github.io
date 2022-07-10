@@ -6,7 +6,7 @@ title: Home
 
 {%
   include figure.html
-  image="images/logo.png"
+  image="images/logo-lab.png"
   width="700px"
 %}
 
