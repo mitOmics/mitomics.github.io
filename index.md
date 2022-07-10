@@ -32,7 +32,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner2.jpg" %}
+{% include banner.html image="images/banner3.jpg" %}
 
 {% include section.html %}
 
