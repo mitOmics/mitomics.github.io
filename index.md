@@ -60,13 +60,12 @@ We use bioinformatics and computational biology to answer important questions in
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We believe that anyone around the world should be able to use and extend our work. We push to make software, tools, datasets, etc. that are freely available and openly licensed.
 
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="See our highlighted resources"
   icon="fas fa-arrow-right"
   flip=true
 %}
