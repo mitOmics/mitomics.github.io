@@ -74,7 +74,7 @@ We believe that anyone around the world should be able to use and extend our wor
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/6313442.png"
   link="resources"
   title="Our Resources"
   flip=true
@@ -96,7 +96,7 @@ We are a team of enthusiastic researchers that want to push the frontier of bioi
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/6313469.png"
   link="team"
   title="Our Team"
   text=text
