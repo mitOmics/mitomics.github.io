@@ -102,5 +102,10 @@ We are a team of enthusiastic researchers that want to push the frontier of bioi
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/banner-text.jpg" %}
+
+{% include section.html %}
