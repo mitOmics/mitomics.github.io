@@ -30,3 +30,246 @@
   link: https://doi.org/gczch2
   image: https://raw.githubusercontent.com/DugongBioinformatics/dugongbioinformatics.github.io/master/.misc/Dugong%20-%20images%20paper.png
   _cache: 67c8925026eb297699ff29c951635afc5cf1219176ccf7cfd6aa9e639ec8066e
+- id: 10.3390/jof6040364
+  title: Fungal Dysbiosis Correlates with the Development of Tumor-Induced Cachexia
+    in Mice
+  authors:
+  - Daniela L. Jabes
+  - Yara N. L. F. de Maria
+  - David Aciole Barbosa
+  - Kaltinaitis B. N. H. Santos
+  - Lucas M. Carvalho
+  - Ana Carolina Humberto
+  - "Valqu\xEDria C. Alencar"
+  - Regina Costa de Oliveira
+  - Miguel L. Batista
+  - Fabiano B. Menegidio
+  - Luiz R. Nunes
+  publisher: Journal of Fungi
+  date: '2020-12-13'
+  link: https://doi.org/gqc6s3
+  _cache: dec459ccfe44bc0688d1ff231a14bc6e0eea55b4437e6b6d888424f2db36165f
+- id: 10.1099/mic.0.001088
+  title: Analysis of mouse faecal dysbiosis, during the development of cachexia, induced
+    by transplantation with Lewis lung carcinoma cells
+  authors:
+  - Yara N. L. F. de Maria
+  - David Aciole Barbosa
+  - Fabiano B. Menegidio
+  - Kaltinaitis B. N. H. Santos
+  - Ana Carolina Humberto
+  - "Valqu\xEDria C. Alencar"
+  - Juliana F. S. Silva
+  - Regina Costa de Oliveira
+  - Miguel L. Batista Jr
+  - Luiz R. Nunes
+  - Daniela L. Jabes
+  publisher: Microbiology
+  date: '2021-10-01'
+  link: https://doi.org/gqc6sz
+  _cache: c497f29269f37cda59811901ceb7700b8210d6789fc91318f5e8969c7e184b50
+- id: 10.1093/mmy/myaa062
+  title: Transcriptomic profiling identifies novel transcripts, isomorphs, and noncoding
+    RNAs in <i>Paracoccidioides brasiliensis</i>
+  authors:
+  - Fabiano B Menegidio
+  - David Aciole Barbosa
+  - "Valqu\xEDria C Alencar"
+  - Renata O Vilas Boas
+  - Regina Costa de Oliveira
+  - Daniela L Jabes
+  - Luiz R Nunes
+  publisher: Medical Mycology
+  date: '2020-07-21'
+  link: https://doi.org/gqc6s6
+  _cache: 621617256d9daf23fe38fee24a48d9c0c6641a752101f1b8e8415fd8aa62e38a
+- id: 10.1371/journal.pntd.0007576
+  title: 'ParaDB: A manually curated database containing genomic annotation for the
+    human pathogenic fungi Paracoccidioides spp.'
+  authors:
+  - David Aciole Barbosa
+  - Fabiano Bezerra Menegidio
+  - "Valqu\xEDria Campos Alencar"
+  - "Rafael S. Gon\xE7alves"
+  - "Juliana de F\xE1tima Santos Silva"
+  - Renata Ozelami Vilas Boas
+  - "Yara Nat\xE9rcia Lima Faustino de Maria"
+  - Daniela Leite Jabes
+  - Regina Costa de Oliveira
+  - Luiz R. Nunes
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2019-07-15'
+  link: https://doi.org/ggb8wm
+  _cache: 3c541bf5990d91b81ce394faf445e3f85cbc585390b62356f453881d86277f74
+- id: 10.3390/ijms22115628
+  title: The Quorum Sensing Auto-Inducer 2 (AI-2) Stimulates Nitrogen Fixation and
+    Favors Ethanol Production over Biomass Accumulation in Zymomonas mobilis
+  authors:
+  - "Valqu\xEDria Campos Alencar"
+  - "Juliana de F\xE1tima dos Santos Silva"
+  - Renata Ozelami Vilas Boas
+  - "Vin\xEDcius Manganaro Farn\xE9zio"
+  - Yara N. L. F. de Maria
+  - David Aciole Barbosa
+  - Alex Tramontin Almeida
+  - Emanuel Maltempi de Souza
+  - "Marcelo M\xFCller-Santos"
+  - Daniela L. Jabes
+  - Fabiano B. Menegidio
+  - Regina Costa de Oliveira
+  - Tiago Rodrigues
+  - Ivarne Luis dos Santos Tersariol
+  - Adrian R. Walmsley
+  - Luiz R. Nunes
+  publisher: International Journal of Molecular Sciences
+  date: '2021-05-26'
+  link: https://doi.org/gqg6wh
+  _cache: d0d73c3de0260ef7af8a09eb72270599c17c354fd000256e8e121ec2c1a0343f
+- id: 10.3389/fevo.2021.650783
+  title: Ten Complete Mitochondrial Genomes of Gymnocharacini (Stethaprioninae, Characiformes).
+    Insights Into Evolutionary Relationships and a Repetitive Element in the Control
+    Region (D-loop)
+  authors:
+  - Rubens Pasa
+  - "Fabiano Bezerra Meneg\xEDdio"
+  - Igor Henrique Rodrigues-Oliveira
+  - Iuri Batista da Silva
+  - Matheus Lewi Cruz Bonaccorsi de Campos
+  - "Dina\xEDza Abadia Rocha-Reis"
+  - John Seymour Heslop-Harrison
+  - Trude Schwarzacher
+  - Karine Frehner Kavalco
+  publisher: Frontiers in Ecology and Evolution
+  date: '2021-07-22'
+  link: https://doi.org/gqg6wj
+  _cache: 1d8ff560745b11faa0acff8e79a0e1e14b6e7429d55c293d0d012fbb59338e40
+- id: 10.12688/f1000research.26524.1
+  title: Complete mitochondrial genome of the endangered species Brycon nattereri
+    (Characiformes, Characidae)
+  authors:
+  - Snaydia Viegas Resende
+  - Rubens Pasa
+  - "Fabiano Bezerra Meneg\xEDdio"
+  - John Seymour (Pat) Heslop-Harrison
+  - Trude Schwarzacher
+  - Karine Frehner Kavalco
+  publisher: F1000Research
+  date: '2020-11-18'
+  link: https://doi.org/gqc6s4
+  _cache: b1a2df4446bba39b64ffef779420b8fa83ae7cbe1395609f1fc6b5b8ef863e43
+- id: 10.3389/fevo.2020.579965
+  title: The Complete Mitochondrial Genome of Two Armored Catfish Populations of the
+    Genus Hypostomus (Siluriformes, Loricariidae, Hypostominae)
+  authors:
+  - "Dina\xEDza Abadia Rocha-Reis"
+  - Rubens Pasa
+  - Fabiano Bezerra Menegidio
+  - John Seymour Heslop-Harrison
+  - Trude Schwarzacher
+  - Karine Frehner Kavalco
+  publisher: Frontiers in Ecology and Evolution
+  date: '2020-12-04'
+  link: https://doi.org/gqg6wk
+  _cache: d0ab22996fef2d13e8caf8d9e750cea8105ff71f45a6698d16bf9171346b4c51
+- id: 10.1021/acs.biochem.6b00886
+  title: Functional and Evolutionary Characterization of a UDP-Xylose Synthase Gene
+    from the Plant Pathogen <i>Xylella fastidiosa</i>, Involved in the Synthesis of
+    Bacterial Lipopolysaccharide
+  authors:
+  - "Valqu\xEDria Campos Alencar"
+  - Daniela Leite Jabes
+  - Fabiano Bezerra Menegidio
+  - Guilherme Lanzi Sassaki
+  - Lucas Rodrigo de Souza
+  - Luciano Puzer
+  - "Maria Cec\xEDlia Zor\xE9l Meneghetti"
+  - Marcelo Andrade Lima
+  - Ivarne Luis dos Santos Tersariol
+  - Regina Costa de Oliveira
+  - Luiz R. Nunes
+  publisher: Biochemistry
+  date: '2017-01-26'
+  link: https://doi.org/gqg6wm
+  _cache: 5db4e6794ea50ed18dc227108196f69784052fdbd14bd2f4adb3f71c85c8a1f7
+- id: 10.1007/s00438-016-1184-1
+  title: Thioridazine inhibits gene expression control of the cell wall signaling
+    pathway (CWI) in the human pathogenic fungus Paracoccidioides brasiliensis
+  authors:
+  - Daniela Leite Jabes
+  - Ana Claudia de Freitas Oliveira
+  - "Valqu\xEDria Campos Alencar"
+  - Fabiano Bezerra Menegidio
+  - "D\xE9bora Liliane Souza Reno"
+  - Daiene Souza Santos
+  - David Aciole Barbosa
+  - Renata Ozelami Vilas Boas
+  - Rodrigo Luiz de Oliveira Rodrigues Cunha
+  - Tiago Rodrigues
+  - Regina Costa de Oliveira
+  - Luiz R. Nunes
+  publisher: Molecular Genetics and Genomics
+  date: '2016-03-08'
+  link: https://doi.org/f8ppdk
+  _cache: f07ad1e5fd0f3c01b7de275103b32b20dc2ce4220665ac9bef271fdfed81fb1e
+- id: 10.1128/genomeA.01124-16
+  title: Draft Genome Sequence of 11399, a Transformable Citrus-Pathogenic Strain
+    of Xylella fastidiosa
+  authors:
+  - "B\xE1rbara Niza"
+  - Marcus V. Merfa
+  - "Valqu\xEDria C. Alencar"
+  - Fabiano B. Menegidio
+  - Luiz R. Nunes
+  - Marcos A. Machado
+  - Marco A. Takita
+  - Alessandra A. de Souza
+  publisher: Genome Announcements
+  date: '2016-10-27'
+  link: https://doi.org/gqg6wn
+  _cache: 9e911d0113754a34bd3e7ff99fa586149af55ae8453e61d3622bf3a2a28298a6
+- id: 10.30574/msarr.2022.4.2.0026
+  title: Colorimetric Reverse Transcription-Loop-Mediated Isothermal Amplification
+    (RT-LAMP) in rapid detection of SARS-CoV-2
+  authors:
+  - " Samyra Sth\xE9fane Neves Pereira"
+  - ' Rubens Pasa'
+  - " Fabiano Bezerra Meneg\xEDdio"
+  - ' Luanda Medeiros-Santana'
+  - " Liliane Evangelista Vis\xF4tto"
+  - ' Everaldo Antonio Lopes'
+  - ' Karine Frehner Kavalco'
+  publisher: Magna Scientia Advanced Research and Reviews
+  date: '2022-03-30'
+  link: https://doi.org/gpnq4g
+  _cache: 1847292d7d05d2583cf00f2ed882be2a76420b3d6a98f620e432550053976967
+- id: 10.30574/gscarr.2022.10.2.0037
+  title: 'Molecular diagnosis of SARS-CoV-2: A validation of saliva samples'
+  authors:
+  - ' Natalia Verissimo Rodrigues da Silva'
+  - " Samyra St\xE9phane Neves Pereira"
+  - ' Karine Frehner Kavalco'
+  - " Fabiano Bezerra Meneg\xEDdio"
+  - ' Luanda Medeiros-Santana'
+  - " Liliane Evangelista Vis\xF4tto"
+  - ' Rubens Pasa'
+  publisher: GSC Advanced Research and Reviews
+  date: '2022-02-28'
+  link: https://doi.org/gqg6wp
+  _cache: ded96669821734627a8695226f2dda373049363191c0db67a089d14e15c7dd93
+- id: 10.1007/s10126-021-10081-0
+  title: Transcriptomic Profiling and Microsatellite Identification in Cobia (Rachycentron
+    canadum), Using High-Throughput RNA Sequencing
+  authors:
+  - David Aciole Barbosa
+  - "Bruno C. Ara\xFAjo"
+  - Giovana Souza Branco
+  - Alexandre S. Simeone
+  - Alexandre W. S. Hilsdorf
+  - Daniela L. Jabes
+  - Luiz R. Nunes
+  - Renata G. Moreira
+  - Fabiano B. Menegidio
+  publisher: Marine Biotechnology
+  date: '2021-12-02'
+  link: https://doi.org/gpfqms
+  _cache: b8a138e9251bcca7b7afe78fb24f9c3cfb27e2e0519b81c1fde85de1f030f552
