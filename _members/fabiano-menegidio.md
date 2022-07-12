@@ -7,6 +7,7 @@ aliases:
   - Fabiano B. Menegidio
   - Fabiano Bezerra Menegidio
   - Fabiano B Menegidio
+  - Fabiano Bezerra Menegídio
   - Menegidio, FB
   - Menegidio, F.B
   - Menegidio, F.B.
