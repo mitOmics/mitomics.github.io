@@ -15,8 +15,8 @@
   publisher: GigaScience
   date: '2019-04-01'
   link: https://doi.org/ggrfgj
-  image: https://raw.githubusercontent.com/BioPortainer/BioPortainer/master/images/BioPortainerWorkbench.png
-  _cache: 3c9bf5e902fa3322ff097cf5e687e3e5d56a4e6e9cd38e6cb7967a3352114e44
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: ef227ad2e0986ce81ea8ad161460aca001608db84b9d804ce82ee7081599ff93
 - id: 10.1093/bioinformatics/btx554
   title: 'Dugong: a Docker image, based on Ubuntu Linux, focused on reproducibility
     and replicability for bioinformatics analyses'
@@ -28,8 +28,8 @@
   publisher: Bioinformatics
   date: '2017-09-04'
   link: https://doi.org/gczch2
-  image: https://raw.githubusercontent.com/DugongBioinformatics/dugongbioinformatics.github.io/master/.misc/Dugong%20-%20images%20paper.png
-  _cache: 67c8925026eb297699ff29c951635afc5cf1219176ccf7cfd6aa9e639ec8066e
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: ddb42b498575bb0da700b82bcb63b474e3b7e9596474a278f87d9234319a5e86
 - id: 10.3390/jof6040364
   title: Fungal Dysbiosis Correlates with the Development of Tumor-Induced Cachexia
     in Mice
@@ -48,7 +48,8 @@
   publisher: Journal of Fungi
   date: '2020-12-13'
   link: https://doi.org/gqc6s3
-  _cache: dec459ccfe44bc0688d1ff231a14bc6e0eea55b4437e6b6d888424f2db36165f
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: 9a42ef091e9f7bb61546bdda02e9b7a013b86e4471653104008990040d08b943
 - id: 10.1099/mic.0.001088
   title: Analysis of mouse faecal dysbiosis, during the development of cachexia, induced
     by transplantation with Lewis lung carcinoma cells
@@ -67,7 +68,8 @@
   publisher: Microbiology
   date: '2021-10-01'
   link: https://doi.org/gqc6sz
-  _cache: c497f29269f37cda59811901ceb7700b8210d6789fc91318f5e8969c7e184b50
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: f612d412d021273daac34b6c52620534d1a44d8e8e80d90263179139e3274912
 - id: 10.1093/mmy/myaa062
   title: Transcriptomic profiling identifies novel transcripts, isomorphs, and noncoding
     RNAs in <i>Paracoccidioides brasiliensis</i>
@@ -82,7 +84,8 @@
   publisher: Medical Mycology
   date: '2020-07-21'
   link: https://doi.org/gqc6s6
-  _cache: 621617256d9daf23fe38fee24a48d9c0c6641a752101f1b8e8415fd8aa62e38a
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: bc9d6a4d9166a12d6485d1026904f0eb750375788e1a106968d9dc9f44455090
 - id: 10.1371/journal.pntd.0007576
   title: 'ParaDB: A manually curated database containing genomic annotation for the
     human pathogenic fungi Paracoccidioides spp.'
@@ -100,7 +103,8 @@
   publisher: PLOS Neglected Tropical Diseases
   date: '2019-07-15'
   link: https://doi.org/ggb8wm
-  _cache: 3c541bf5990d91b81ce394faf445e3f85cbc585390b62356f453881d86277f74
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: 3527f04625cd002487f32973b2b84933e2d16b10148b4911d1279f63f5cea52b
 - id: 10.3390/ijms22115628
   title: The Quorum Sensing Auto-Inducer 2 (AI-2) Stimulates Nitrogen Fixation and
     Favors Ethanol Production over Biomass Accumulation in Zymomonas mobilis
@@ -124,7 +128,8 @@
   publisher: International Journal of Molecular Sciences
   date: '2021-05-26'
   link: https://doi.org/gqg6wh
-  _cache: d0d73c3de0260ef7af8a09eb72270599c17c354fd000256e8e121ec2c1a0343f
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: df0e4a66a4bc2625d126f17fddbb05e2e8e03a6da7f8346270c6bde3473676c0
 - id: 10.3389/fevo.2021.650783
   title: Ten Complete Mitochondrial Genomes of Gymnocharacini (Stethaprioninae, Characiformes).
     Insights Into Evolutionary Relationships and a Repetitive Element in the Control
@@ -142,7 +147,8 @@
   publisher: Frontiers in Ecology and Evolution
   date: '2021-07-22'
   link: https://doi.org/gqg6wj
-  _cache: 1d8ff560745b11faa0acff8e79a0e1e14b6e7429d55c293d0d012fbb59338e40
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: 320d45a73d031c50ce996d48037dda3c76b8060aececc31f32a119c65da2cd35
 - id: 10.12688/f1000research.26524.1
   title: Complete mitochondrial genome of the endangered species Brycon nattereri
     (Characiformes, Characidae)
@@ -156,7 +162,8 @@
   publisher: F1000Research
   date: '2020-11-18'
   link: https://doi.org/gqc6s4
-  _cache: b1a2df4446bba39b64ffef779420b8fa83ae7cbe1395609f1fc6b5b8ef863e43
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: e5c8ce24a550b9836587fe162a19ff11549307030c0aebf2494210cae375ace8
 - id: 10.3389/fevo.2020.579965
   title: The Complete Mitochondrial Genome of Two Armored Catfish Populations of the
     Genus Hypostomus (Siluriformes, Loricariidae, Hypostominae)
@@ -170,7 +177,8 @@
   publisher: Frontiers in Ecology and Evolution
   date: '2020-12-04'
   link: https://doi.org/gqg6wk
-  _cache: d0ab22996fef2d13e8caf8d9e750cea8105ff71f45a6698d16bf9171346b4c51
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: 7d719d41604325bfa78e33941eff5c5706b529749daf1016b6b33836365f1056
 - id: 10.1021/acs.biochem.6b00886
   title: Functional and Evolutionary Characterization of a UDP-Xylose Synthase Gene
     from the Plant Pathogen <i>Xylella fastidiosa</i>, Involved in the Synthesis of
@@ -190,7 +198,8 @@
   publisher: Biochemistry
   date: '2017-01-26'
   link: https://doi.org/gqg6wm
-  _cache: 5db4e6794ea50ed18dc227108196f69784052fdbd14bd2f4adb3f71c85c8a1f7
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: e2de8d5429828fade0933107d4b704d42265e776591d11487bade040bf6ee017
 - id: 10.1007/s00438-016-1184-1
   title: Thioridazine inhibits gene expression control of the cell wall signaling
     pathway (CWI) in the human pathogenic fungus Paracoccidioides brasiliensis
@@ -210,7 +219,8 @@
   publisher: Molecular Genetics and Genomics
   date: '2016-03-08'
   link: https://doi.org/f8ppdk
-  _cache: f07ad1e5fd0f3c01b7de275103b32b20dc2ce4220665ac9bef271fdfed81fb1e
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: 20d6db7597942fb0aa6580bc0cbb9849936f14c8ac14e9c8b7d03941a6aaf36b
 - id: 10.1128/genomeA.01124-16
   title: Draft Genome Sequence of 11399, a Transformable Citrus-Pathogenic Strain
     of Xylella fastidiosa
@@ -226,7 +236,8 @@
   publisher: Genome Announcements
   date: '2016-10-27'
   link: https://doi.org/gqg6wn
-  _cache: 9e911d0113754a34bd3e7ff99fa586149af55ae8453e61d3622bf3a2a28298a6
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: 16ade9e6f884ee80cdee665194e6daa75902d3e68dd54cba7545d035749c3e77
 - id: 10.30574/msarr.2022.4.2.0026
   title: Colorimetric Reverse Transcription-Loop-Mediated Isothermal Amplification
     (RT-LAMP) in rapid detection of SARS-CoV-2
@@ -241,7 +252,8 @@
   publisher: Magna Scientia Advanced Research and Reviews
   date: '2022-03-30'
   link: https://doi.org/gpnq4g
-  _cache: 1847292d7d05d2583cf00f2ed882be2a76420b3d6a98f620e432550053976967
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: c688f948131972687c9965d50510067b1915a8966368dbf1355d0cfc6b125967
 - id: 10.30574/gscarr.2022.10.2.0037
   title: 'Molecular diagnosis of SARS-CoV-2: A validation of saliva samples'
   authors:
@@ -255,7 +267,8 @@
   publisher: GSC Advanced Research and Reviews
   date: '2022-02-28'
   link: https://doi.org/gqg6wp
-  _cache: ded96669821734627a8695226f2dda373049363191c0db67a089d14e15c7dd93
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: 451a2f10cf842f6421574208217d8c380c614dbfd6ead31035920f62775864ad
 - id: 10.1007/s10126-021-10081-0
   title: Transcriptomic Profiling and Microsatellite Identification in Cobia (Rachycentron
     canadum), Using High-Throughput RNA Sequencing
@@ -272,4 +285,5 @@
   publisher: Marine Biotechnology
   date: '2021-12-02'
   link: https://doi.org/gpfqms
-  _cache: b8a138e9251bcca7b7afe78fb24f9c3cfb27e2e0519b81c1fde85de1f030f552
+  image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Scientific_journal_icon.svg/1024px-Scientific_journal_icon.svg.png
+  _cache: 7f07c63f2117cc88f2a44b5aecad81085f379ecb0a5b73bcd8cdd1b098c5f6d2
