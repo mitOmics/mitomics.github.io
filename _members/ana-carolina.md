@@ -1,6 +1,6 @@
 ---
 name: Ana Carolina
-image: images/pamela.jpg
+image: images/female.png
 description: Undergrad. Student
 role: undergrad
 aliases:
