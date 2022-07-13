@@ -41,6 +41,18 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   component="portrait"
   filters="role: undergrad"
 %}
+
+# <i class="fas fa-users"></i>Collaborations
+
+{% include section.html %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pc"
+%}
+
 {:.center}
 
 {% include section.html background="images/atcg.jpg" dark=true%}
