@@ -1,8 +1,8 @@
 ---
 name: Renan Rocha
 image: images/pamela.jpg
-description: Masters Student
-role: master
+description: PhD Student
+role: phd
 aliases:
   - Alexandre Simeone
 links:
