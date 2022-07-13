@@ -56,7 +56,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 {:.center}
 
 {% include section.html background="images/atcg.jpg" dark=true%}
-
+{:.center}
 “The scientist is not a person who gives the right answers, he’s one who asks the right questions.”
 
 {% include section.html %}
