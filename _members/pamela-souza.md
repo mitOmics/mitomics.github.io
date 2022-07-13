@@ -1,8 +1,8 @@
 ---
 name: Pamela Souza
 image: images/pamela.jpg
-description: Master Student
-role: 
+description: Masters Student
+role: master
 aliases:
   - Pamela Souza
 links:
