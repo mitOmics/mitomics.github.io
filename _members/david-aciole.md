@@ -1,7 +1,7 @@
 ---
 name: David Aciole
 image: images/male.png
-description: Bioinformatician
+description: PhD Bioinformatician
 role: pa
 aliases:
   - David Aciole Barbosa
