@@ -9,14 +9,12 @@ nav:
 
 {%
   include gallery.html
-  image1="images/cell.jpg"
-  link1="https://cell.com/"
-  tooltip1="Cell"
-  image2="images/virus.jpg"
-  link2="https://virus.com/"
+  image1="images/npt1.jpg"
+  tooltip1="NPT Laboratory"
+  image2="images/npt2.jpg"
   tooltip2="Virus"
-  image3="images/cell.jpg"
-  image4="images/virus.jpg"
-  image5="images/bacteria.jpg"
+  image3="images/npt1.jpg"
+  image4="images/npt2.jpg"
+  image5="images/npt3.jpg"
   style="square"
 %}
