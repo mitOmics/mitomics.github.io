@@ -53,7 +53,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 
 We’re always on the lookout for new and unique perspectives. We want to push the frontier of bioinformatics and train the next generation of data scientists.
 
-We are always seeking talented and passionate people to join our team, from summer students to postdocs to staff scientists, short-term and long-term. If you are interested in joining us, please send an email to xdong AT rics.bwh.harvard.edu and include your Lattes CV.
+We are always seeking talented and passionate people to join our team, from summer students to postdocs to staff scientists, short-term and long-term. If you are interested in joining us, please send an email and include your Lattes CV.
 
 {% include link.html type="external" link="https://google.com/" text="Join the Team" icon="" style="button" %}
 {:.center}
