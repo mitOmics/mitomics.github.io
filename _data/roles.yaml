@@ -3,7 +3,7 @@ pi:
   text: Principal Researcher
   
 pa:
-  icon: fas fa-solid fa-jedi></i>
+  icon: fas fa-solid fa-jedi</i>
   text: Associate Researcher
 
 postdoc:
