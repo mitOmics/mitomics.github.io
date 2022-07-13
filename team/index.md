@@ -39,15 +39,13 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 
 ## Join
 
-#### Post Dogtoral Researcher
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We’re always on the lookout for new and unique perspectives. We want to push the frontier of data science and train the next generation of data scientists.
 
 - 3+ (dog) years experience managing bone portfolios
 - Strong desire to learn tricks and go on walkies
 - Aptitude to sit and stay
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+{% include link.html type="external" link="https://google.com/" text="Join the Team" icon="" style="button" %}
 {:.center}
 
 {% include section.html %}
