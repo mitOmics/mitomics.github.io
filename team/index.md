@@ -42,9 +42,9 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
   filters="role: undergrad"
 %}
 
-# <i class="fas fa-users"></i>Collaborations
-
 {% include section.html %}
+
+# <i class="fas fa-users"></i>Collaborations
 
 {%
   include list.html
