@@ -33,8 +33,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 
 {% include section.html background="images/atcg.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+“The scientist is not a person who gives the right answers, he’s one who asks the right questions.”
 
 {% include section.html %}
 
