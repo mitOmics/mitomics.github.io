@@ -12,11 +12,15 @@ postdoc:
 
 phd:
   icon: fas fa-graduation-cap
-  text: PhD Student
+  text: PhD Degree Student
+  
+master:
+  icon: fas fa-graduation-cap
+  text: Masters Degree Student
 
 undergrad:
   icon: fas fa-user-graduate
-  text: Undergraduate Student
+  text: Undergraduate Degree Student
 
 programmer:
   icon: fas fa-code
