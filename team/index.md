@@ -67,7 +67,6 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
 
   image1="images/fapesp.jpg"
   link1="https://fapesp.br/"
