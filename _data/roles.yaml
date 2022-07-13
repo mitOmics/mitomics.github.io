@@ -7,15 +7,15 @@ pa:
   text: Associate Researcher
 
 postdoc:
-  icon: fas fa-glasses
+  icon: fas fa-microscope
   text: Postdoctoral Researcher
 
 phd:
   icon: fas fa-graduation-cap
   text: PhD Degree Student
-  
+
 master:
-  icon: fas fa-graduation-cap
+  icon: fas fa-glasses
   text: Masters Degree Student
 
 undergrad:
