@@ -69,9 +69,9 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
+  image1="images/fapesp.jpg"
+  link1="https://fapesp.br/"
+  tooltip1="FAPESP"
 
   image2="images/photo.jpg"
   link2="https://nasa.gov/"
