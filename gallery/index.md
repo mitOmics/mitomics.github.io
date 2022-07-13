@@ -15,4 +15,5 @@ nav:
   tooltip1="NPT Laboratory"
   tooltip2="NPT Laboratory"
   tooltip3="NPT Laboratory"
+  style="square"
 %}
