@@ -5,24 +5,18 @@ nav:
   tooltip: Photos
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i>Gallery
 
-All of our software, tools, datasets, etc. are 100% open-source, and free for anyone around the world to use and modify. We strive to make resources that are high quality in every aspect: cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
-
-{:.center}
-
-{% include section.html background="images/atcg.jpg" dark=true%}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="tools" filters="group: featured" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{%
+  include gallery.html
+  image1="images/cell.jpg"
+  link1="https://cell.com/"
+  tooltip1="Cell"
+  image2="images/virus.jpg"
+  link2="https://virus.com/"
+  tooltip2="Virus"
+  image3="images/cell.jpg"
+  image4="images/virus.jpg"
+  image5="images/bacteria.jpg"
+  style="square"
+%}
