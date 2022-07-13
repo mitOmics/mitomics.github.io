@@ -72,13 +72,13 @@ Our work is made possible by funding from several organizations.
   link1="https://fapesp.br/"
   tooltip1="FAPESP"
 
-  image2="images/photo.jpg"
+  image2="images/cnpq.png"
   link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
+  tooltip2="CNPq"
 
-  image3="images/photo.jpg"
+  image3="images/capes.jpeg"
   link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
+  tooltip3="Capes"
 
   image4="images/photo.jpg"
   link4="https://nasa.gov/"
