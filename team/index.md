@@ -51,7 +51,7 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 
 ## Join
 
-We’re always on the lookout for new and unique perspectives. We want to push the frontier of bioinformatics and train the next generation of data scientists.
+We’re always on the lookout for new and unique perspectives. We want to push the frontier of bioinformatics and train the next generation of bioinformatic scientists.
 
 We are always seeking talented and passionate people to join our team, from summer students to postdocs to staff scientists, short-term and long-term. If you are interested in joining us, please send an email and include your Lattes CV.
 
