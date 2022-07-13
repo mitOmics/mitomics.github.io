@@ -70,25 +70,17 @@ Our work is made possible by funding from several organizations.
 
   image1="images/fapesp.jpg"
   link1="https://fapesp.br/"
-  tooltip1="FAPESP"
+  tooltip1="FAPESP - Fundação de Amparo à Pesquisa do Estado de São Paulo"
 
   image2="images/cnpq.png"
-  link2="https://nasa.gov/"
-  tooltip2="CNPq"
+  link2="https://www.gov.br/cnpq/pt-br"
+  tooltip2="CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico"
 
   image3="images/capes.jpeg"
-  link3="https://nasa.gov/"
-  tooltip3="Capes"
+  link3="https://www.gov.br/capes/pt-br"
+  tooltip3="CAPES - Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
 
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
+  image4="images/faep.png"
+  link4="https://www.faep.org.br/"
+  tooltip4="FAEP - Fundação de Amparo ao Ensino e Pesquisa"
 %}
