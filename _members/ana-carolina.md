@@ -1,8 +1,8 @@
 ---
 name: Ana Carolina
 image: images/pamela.jpg
-description: Masters Student
-role: master
+description: Undergrad. Student
+role: undergrad
 aliases:
   - Alexandre Simeone
 links:
