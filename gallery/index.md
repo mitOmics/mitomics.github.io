@@ -13,5 +13,4 @@ nav:
   image2="images/npt2.jpg"
   image3="images/npt3.jpg"
   tooltip1="NPT Laboratory"
-  style="square"
 %}
