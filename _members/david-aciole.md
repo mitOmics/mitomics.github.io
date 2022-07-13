@@ -1,18 +1,12 @@
 ---
 name: David Aciole
 image: images/david.jpg
-description: Leader Investigator
-role: pi
+description: Associate Investigator
+role: pa
 aliases:
-  - Fabiano B. Menegidio
-  - Fabiano Bezerra Menegidio
-  - Fabiano B Menegidio
-  - Fabiano Bezerra Menegídio
-  - Menegidio, FB
-  - Menegidio, F.B
-  - Menegidio, F.B.
+  - David Aciole Barbosa
 links:
-  orcid: 0000-0001-8713-9213
-  email: fabianomenegidio@umc.br
-  twitter: menegidio
+  orcid: 0000-0000-0000-0000
+  email: XXXX@XXXX.br
+  twitter: david.aciole
 ---
