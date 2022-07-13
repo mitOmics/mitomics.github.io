@@ -1,6 +1,6 @@
 ---
 name: David Aciole
-image: images/david.jpg
+image: images/male.png
 description: Investigator
 role: pa
 aliases:
