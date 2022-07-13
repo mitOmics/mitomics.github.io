@@ -1,6 +1,6 @@
 ---
 name: Alexandre Simeone
-image: images/pamela.jpg
+image: images/male.png
 description: Masters Student
 role: master
 aliases:
