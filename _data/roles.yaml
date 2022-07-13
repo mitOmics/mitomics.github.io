@@ -5,6 +5,10 @@ pi:
 pa:
   icon: fas fa-jedi
   text: Associate Researcher
+  
+pc:
+  icon: fas fa-jedi-order
+  text: Collaborating Researcher
 
 postdoc:
   icon: fas fa-microscope
