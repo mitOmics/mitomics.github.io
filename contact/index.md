@@ -7,12 +7,6 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-{%
-  include figure.html
-  image="images/logo-lab.png"
-  width="700px"
-%}
-
 Our lab is part of the Integrated Center for Biotechnology (NIB) and the Center for Technological Research (NPT), at the University of Mogi das Cruzes (UMC).
 
 {:.center}
