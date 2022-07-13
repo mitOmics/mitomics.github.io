@@ -13,16 +13,15 @@ nav:
   width="700px"
 %}
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the Integrated Center for Biotechnology (NIB) and the Center for Technological Research (NPT), at the University of Mogi das Cruzes (UMC).
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
-  tooltip=""
-  link="scrooge@mcduck.com"
+  text="fabianomenegidio@umc.br"
+  tooltip="Prof. Dr. Fabiano Menegidio"
+  link="fabianomenegidio@umc.br"
   style="button"
 %}
 {%
@@ -34,24 +33,13 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   link="+1-555-867-5309"
   style="button"
 %}
-{%
-  include link.html
-  type="address"
-  icon=""
-  text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
-  style="button"
-%}
+
 {:.center}
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.431937789092!2d-46.18487318502305!3d-23.51696208470498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce7b7e1f6a37d5%3A0xd0b2523effde0064!2sUMC%20-%20Universidade%20de%20Mogi%20das%20Cruzes!5e0!3m2!1spt-BR!2sbr!4v1657710395406!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
 {:.center}
 
 {% capture col1 %}
