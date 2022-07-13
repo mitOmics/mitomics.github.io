@@ -7,7 +7,7 @@ pa:
   text: Associate Researcher
   
 pc:
-  icon: fas fa-jedi-order
+  icon: fas fa-jedi
   text: Collaborating Researcher
 
 postdoc:
