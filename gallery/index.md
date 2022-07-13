@@ -5,7 +5,7 @@ nav:
   tooltip: Photos
 ---
 
-# <i class="fas fa-tools"></i>Gallery
+# <i class="fas fa-picture-o"></i>Gallery
 
 {%
   include gallery.html
