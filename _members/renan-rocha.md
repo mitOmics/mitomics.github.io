@@ -1,6 +1,6 @@
 ---
 name: Renan Rocha
-image: images/pamela.jpg
+image: images/male.png
 description: PhD Student
 role: phd
 aliases:
