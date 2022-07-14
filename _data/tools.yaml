@@ -1,9 +1,9 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Dugong
+  subtitle: a Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses
   group: featured
-  image: images/photo.jpg
+  image: images/software.jpg
   link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Dugong is a powerful workstation platform especially designed for scientific computational analysis, mainly of bioinformatics and computational biology, that can be installed in any computational ecosystem, regardless of the operating system and hardware used.
   repo: greenelab/lab-website-template
   tags:
     - resource
