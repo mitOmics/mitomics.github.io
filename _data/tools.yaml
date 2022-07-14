@@ -1,9 +1,9 @@
 - title: Dugong
-  subtitle: a Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses
+  subtitle: 10.1093/bioinformatics/btx554
   group: featured
   image: images/software.jpg
-  link: https://github.com/
-  description: Dugong is a powerful workstation platform especially designed for scientific computational analysis, mainly of bioinformatics and computational biology, that can be installed in any computational ecosystem, regardless of the operating system and hardware used.
+  link: https://github.com/DugongBioinformatics
+  description: a Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses
   repo: greenelab/lab-website-template
   tags:
     - resource
