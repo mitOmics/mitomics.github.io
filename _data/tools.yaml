@@ -1,5 +1,5 @@
 - title: Dugong
-  subtitle: DOI:10.1093/bioinformatics/btx554
+  subtitle: DOI: 10.1093/bioinformatics/btx554
   group: featured
   image: images/software.jpg
   link: https://github.com/DugongBioinformatics
@@ -8,7 +8,7 @@
   tags:
     - resource
 
-- title: Cool Package
+- title: BioPortainer Workbench
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
