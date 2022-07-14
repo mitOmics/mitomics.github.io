@@ -3,7 +3,7 @@
   group: featured
   image: images/software.jpg
   link: https://github.com/DugongBioinformatics
-  description: a Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses
+  description: Dugong is a Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses
   repo: greenelab/lab-website-template
   tags:
     - resource
