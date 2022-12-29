@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the Integrated Center for Biotechnology (NIB) and the Center for Technological Research (NPT), at the University of Mogi das Cruzes (UMC).
+Our lab is part of the Núcleo Integrado de Biotecnologia (NIB) and the Núcleo de Pesquisas Tecnológicas (NPT), at the University of Mogi das Cruzes (UMC).
 
 {:.center}
 {%
