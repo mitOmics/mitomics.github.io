@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: Fellowship of the Ring Genomes
 description: MitOmics
-logo: images/logo.svg
+logo: images/mitochondria.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /
