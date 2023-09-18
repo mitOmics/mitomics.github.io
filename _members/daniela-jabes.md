@@ -1,5 +1,5 @@
 ---
-name: Daniela Leite Jabes
+name: Daniela Jabes
 image: images/female.png
 description: Leader Investigator
 role: pi
