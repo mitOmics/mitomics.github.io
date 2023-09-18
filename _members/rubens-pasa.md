@@ -1,8 +1,8 @@
 ---
 name: Rubens Pasa
 image: images/rubens.jpg
-description: UFV
-role: pc
+description: Leader Investigator
+role: pi
 aliases:
   - Rubens Pasa
 links:
