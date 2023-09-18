@@ -1,8 +1,8 @@
 ---
 name: Karine Kavalco
 image: images/karine.jpg
-description: UFV
-role: pc
+description: Leader Investigator
+role: pi
 aliases:
   - Karine Frehner Kavalco
 links:
