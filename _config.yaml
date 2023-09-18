@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: LaBiOmicS
-description: Laboratory of Bioinformatics and Omic Sciences.
+title: Fellowship of the Ring Genomes
+description: #! MitOmics
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -12,7 +12,7 @@ baseurl: /
 links:
   email: jane.smith@your-lab.com
   google-scholar: Jane Smith
-  github: LaBiOmicS
+  github: MitOmics
   twitter: YourLabHandle
   instagram: YourLabHandle
   youtube: YourLabChannel
