@@ -112,6 +112,6 @@ We are a team of enthusiastic researchers that want to push the frontier of bioi
 
 {%
   include figure.html
-  image="images/openscience.png"
+  image="images/researchparasites.png"
   width="200px"
 %}
