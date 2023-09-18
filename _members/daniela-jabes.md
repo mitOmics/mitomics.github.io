@@ -1,6 +1,6 @@
 ---
 name: Daniela Leite Jabes
-image: images/rubens.jpg
+image: images/female.png
 description: Leader Investigator
 role: pi
 aliases:
