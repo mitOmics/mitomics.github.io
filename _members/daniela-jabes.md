@@ -1,6 +1,6 @@
 ---
 name: Daniela Jabes
-image: images/female.png
+image: images/daniela-jabes.jpg
 description: Leader Investigator
 role: pi
 aliases:
