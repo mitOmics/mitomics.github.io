@@ -1,8 +1,8 @@
 ---
 name: Daniela Jabes
 image: images/daniela-jabes.jpg
-description: Leader Investigator
-role: pi
+description: UMC
+role: pc
 aliases:
   - Daniela Leite Jabes
 links:
