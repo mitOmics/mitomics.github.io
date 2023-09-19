@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# WHERE COMPUTER AND BIOLOGY MEET
+# Fellowship of the Ring Genomes
 
 {%
   include figure.html
