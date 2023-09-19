@@ -6,7 +6,7 @@ title: Home
   image="images/text-1695084297089.png"
 %}
 
-[**LaBiOmicS**](https://labiomics.github.io/) (Laboratory of Bioinformatics and Omic Sciences) is a team of researchers dedicated to answering important questions in Biotechnology and Biomedical Engineering with Bioinformatics and Computational Biology. We focus on bringing together publicly available big data, developing new computational methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
+[**MitOmics**](https://mitomics.github.io/) is a team of researchers dedicated to answering important questions in Biotechnology and Biomedical Engineering with Bioinformatics and Computational Biology. We focus on bringing together publicly available big data, developing new computational methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
 
 {%
   include link.html
