@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Fellowship of the Ring Genomes
+# FellØwship Øf the Ring GenØmes
 
 {%
   include figure.html
