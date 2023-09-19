@@ -1,7 +1,7 @@
 ---
 name: David Aciole
 image: images/male.png
-description: Associate Researcher
+description: PhD Bioinformatician
 role: pa
 aliases:
   - David Aciole Barbosa
