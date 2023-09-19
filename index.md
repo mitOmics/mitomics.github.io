@@ -82,7 +82,7 @@ We believe that anyone around the world should be able to use and extend our wor
 %}
 
 {% capture text %}
-We are a team of enthusiastic researchers that want to push the frontier of bioinformatics, genetics and molecular biology. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+We are a team of enthusiastic researchers that want to push the frontier of ecology, genetics, molecular biology and bioinformatics. We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include link.html
