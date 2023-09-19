@@ -1,9 +1,6 @@
 ---
 title: Home
 ---
-
-# FellØwship Øf the Ring GenØmes
-
 {%
   include figure.html
   image="images/text-1695084297089.png"
