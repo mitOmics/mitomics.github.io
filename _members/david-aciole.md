@@ -1,8 +1,8 @@
 ---
 name: David Aciole
 image: images/male.png
-description: PhD Bioinformatician
-role: pa
+description: UMC
+role: pc
 aliases:
   - David Aciole Barbosa
   - David A. Barbosa
